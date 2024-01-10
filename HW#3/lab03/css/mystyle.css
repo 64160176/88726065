@@ -1,0 +1,31 @@
+body {
+    font-family: arial;
+    background-color: #f9ece9;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+/* mystyle.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* ทำให้ลิสต์เรียงแนวนอน */
+}
+
+nav li {
+    margin-right: 20px; /* ระยะห่างระหว่างรายการ */
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
