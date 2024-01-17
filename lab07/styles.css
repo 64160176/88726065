@@ -3,16 +3,16 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 20px;
-    background-color: #f8f8f8;
+    background-color: #fff6f6;
 }
 
 h1 {
     color: #333;
     font-size: 24px;
-    background-color: #bbffb2;
+    background-color: #f5bcdd;
     padding: 15px;
     border-radius: 5px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -36,7 +36,7 @@ li {
 }
 
 li.completed {
-    background-color: #d4edda;
+    background-color: #fbe7f3;
     text-decoration: line-through;
 }
 
@@ -51,7 +51,7 @@ input[type="text"] {
 
 button {
     padding: 12px 24px;
-    background-color: #ffaced;
+    background-color: #e091bf;
     color: white;
     border: none;
     border-radius: 8px;
@@ -60,5 +60,5 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #84d8ff;
 }
